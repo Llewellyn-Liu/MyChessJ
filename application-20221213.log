@@ -1,0 +1,1383 @@
+2022-12-13 16:08:09.016 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:08:09.019 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:08:09.063 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:08:09.063 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:19:44.319 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:19:44.322 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:19:44.359 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:19:44.360 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:19:44.627 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:19:44.631 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chess finished.
+2022-12-13 16:28:04.145 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:28:04.147 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:28:04.187 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:28:04.187 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:28:04.483 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:30:27.225 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:30:27.228 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:30:27.267 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:30:27.267 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:30:27.532 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:32:33.785 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:32:33.788 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:32:33.828 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:32:33.828 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:32:34.087 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:32:34.232 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:32:34.238 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Ju Red 1
+2022-12-13 16:32:34.254 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:32:34.254 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Ju Red 1
+2022-12-13 16:35:07.202 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:35:07.204 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:35:07.243 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:35:07.243 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:35:07.530 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:35:07.678 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:35:07.680 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current chess: Ju Red
+2022-12-13 16:35:07.693 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:35:07.693 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current chess: Ju Red
+2022-12-13 16:35:34.999 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:35:35.001 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:35:35.040 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:35:35.040 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:35:35.310 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:35:35.463 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:35:35.484 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:36:39.359 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:36:39.361 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:36:39.401 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:36:39.401 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:36:39.679 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:36:39.823 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:36:39.842 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:37:51.917 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:37:51.919 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:37:51.956 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:37:51.956 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:37:52.243 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:37:52.392 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:37:52.413 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:38:41.654 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:38:41.656 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:38:41.694 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:38:41.694 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:38:41.959 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:38:42.115 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:38:42.132 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:39:22.861 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:39:22.863 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:39:22.902 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:39:22.902 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:39:23.208 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:39:23.366 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:39:23.386 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:40:06.090 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:40:06.093 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:40:06.132 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:40:06.132 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:40:06.426 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:40:06.570 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:40:06.584 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:41:45.112 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:41:45.114 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:41:45.155 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:41:45.156 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:41:45.418 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:41:45.570 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:41:45.590 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:42:54.980 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:42:54.982 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:49:53.714 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:49:53.717 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:49:53.758 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:49:53.758 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:49:54.039 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:49:54.192 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:49:54.213 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:50:54.223 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:50:54.225 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:50:54.265 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:50:54.265 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:50:54.530 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:50:54.679 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:50:54.694 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:52:05.446 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:52:05.449 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:52:05.490 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:52:05.490 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:52:05.758 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:52:05.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:52:05.925 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:52:39.381 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:52:39.383 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:52:39.423 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:52:39.423 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:52:39.700 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:52:39.865 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:52:39.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:53:26.632 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:53:26.635 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:53:26.673 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:53:26.674 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:53:26.980 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:53:27.128 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:53:27.142 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:53:41.152 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:53:41.154 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:53:41.192 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:53:41.192 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:53:41.486 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:53:41.634 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:53:41.653 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:56:27.223 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:56:27.225 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:56:27.270 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:56:27.270 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:56:27.562 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:56:27.710 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:56:27.731 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:57:46.609 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:57:46.611 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:57:46.650 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:57:46.650 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:57:46.985 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:57:47.134 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:57:47.155 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:58:14.761 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:58:14.763 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:58:14.801 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:58:14.801 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:58:15.071 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:58:15.224 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:58:15.244 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:59:22.045 [main] INFO  core.run.Game - Game Start.
+2022-12-13 16:59:22.048 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 16:59:22.085 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 16:59:22.086 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 16:59:22.407 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 16:59:22.556 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 16:59:22.577 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:01:39.998 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:01:40.000 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:01:40.039 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:01:40.039 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:01:40.317 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:01:40.471 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:01:40.491 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:04:56.019 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:04:56.021 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:04:56.059 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:04:56.059 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:04:56.332 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:04:56.478 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:04:56.498 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:23:40.095 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:23:40.098 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:23:40.137 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:23:40.137 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:23:40.419 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:23:40.576 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:23:40.596 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:24:00.888 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:24:00.891 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:24:00.931 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:24:00.931 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:24:01.255 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:24:01.400 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:24:01.421 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:25:00.813 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:25:00.815 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:25:00.858 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:25:00.859 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:25:01.143 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:25:01.308 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:25:01.332 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:26:31.845 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:26:31.847 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:26:31.887 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:26:31.887 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:26:32.207 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:26:32.353 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:26:32.377 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:29:20.363 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:29:20.365 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:29:20.406 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:29:20.406 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:29:20.695 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:29:20.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:29:20.869 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:30:10.554 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:30:10.557 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:30:10.595 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:30:10.596 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:30:10.862 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:30:11.019 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:30:11.046 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:41:28.462 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:41:28.464 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:41:28.501 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:41:28.502 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:41:28.794 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:41:28.942 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:41:28.963 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:42:14.233 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:42:14.235 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:42:14.272 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:42:14.273 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:42:14.549 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:42:14.709 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:42:14.733 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:42:50.739 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:42:50.741 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:42:51.046 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:42:52.780 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:42:52.780 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:42:57.788 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:45:26.146 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:45:26.148 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:45:26.456 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:45:28.189 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:45:28.189 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:45:29.001 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:45:31.004 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:45:31.031 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:45:31.063 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:45:31.095 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:49:22.173 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:49:22.176 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:49:22.515 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:49:24.220 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:49:24.221 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 17:49:29.320 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:49:31.322 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:49:31.364 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:49:31.376 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:49:31.409 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:50:00.560 [main] INFO  core.run.Game - Game Start.
+2022-12-13 17:50:00.562 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:50:00.883 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 17:50:02.318 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 17:50:02.322 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 17:50:02.610 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 17:50:02.610 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 18:03:04.911 [main] INFO  core.run.Game - Game Start.
+2022-12-13 18:03:04.914 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 18:03:05.265 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 18:03:06.956 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 18:03:06.956 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 18:03:12.550 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 18:03:12.567 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:03:14.947 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ju Red 1
+2022-12-13 18:03:17.150 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ju Red 1
+2022-12-13 18:03:17.621 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ju Red 1
+2022-12-13 18:03:19.721 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ma Red 1
+2022-12-13 18:03:20.810 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Xiang Red 1
+2022-12-13 18:03:22.777 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Xiang Red 1
+2022-12-13 18:03:24.206 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Xiang Red 1
+2022-12-13 18:03:26.117 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Xiang Red 1
+2022-12-13 18:03:28.009 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Shi Red 1
+2022-12-13 18:03:29.906 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Jiang Red 1
+2022-12-13 18:03:31.148 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Shi Red 2
+2022-12-13 18:03:33.144 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Xiang Red 2
+2022-12-13 18:03:34.993 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ma Red 2
+2022-12-13 18:03:36.664 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ju Red 2
+2022-12-13 18:03:39.666 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Zu Red 5
+2022-12-13 18:03:41.182 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Pao Red 2
+2022-12-13 18:03:42.484 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Zu Red 4
+2022-12-13 18:03:45.363 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Zu Black 4
+2022-12-13 18:03:46.644 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ma Black 1
+2022-12-13 18:03:47.666 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ju Black 1
+2022-12-13 18:06:09.494 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Xiang Black 2
+2022-12-13 18:06:12.610 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ju Black 2
+2022-12-13 18:06:15.635 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ma Black 2
+2022-12-13 18:06:17.412 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Jiang Black 1
+2022-12-13 18:06:19.132 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Xiang Black 1
+2022-12-13 18:06:20.270 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ju Black 1
+2022-12-13 18:06:22.215 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Zu Red 5
+2022-12-13 18:07:43.811 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:07:43.829 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:08:03.030 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: Ju Red 1
+2022-12-13 18:08:16.401 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: None None 0
+2022-12-13 18:08:19.580 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: None None 0
+2022-12-13 18:08:22.160 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: None None 0
+2022-12-13 18:08:25.226 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: None None 0
+2022-12-13 18:08:26.870 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: None None 0
+2022-12-13 18:08:28.548 [AWT-EventQueue-0] INFO  core.gui.Resource - Chess found: None None 0
+2022-12-13 18:14:41.521 [main] INFO  core.run.Game - Game Start.
+2022-12-13 18:14:41.523 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 18:14:41.843 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 18:14:43.575 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 18:14:43.575 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 18:14:50.544 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 18:14:50.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:21:36.113 [main] INFO  core.run.Game - Game Start.
+2022-12-13 18:21:36.115 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 18:21:36.463 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 18:21:38.161 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 18:21:38.161 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 18:21:38.259 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 18:21:38.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:21:44.647 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Pao Red 2
+2022-12-13 18:26:57.190 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:26:57.202 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:27:52.344 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:27:52.383 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:27:53.816 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:38:27.202 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:38:27.228 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:39:33.538 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:39:45.748 [main] INFO  core.run.Game - Game Start.
+2022-12-13 18:39:45.750 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 18:39:46.068 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 18:39:47.792 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 18:39:47.792 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 18:39:52.182 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 18:39:52.188 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 18:39:57.434 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Pao Black 1
+2022-12-13 18:40:03.384 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 4
+2022-12-13 19:03:01.188 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:03:01.190 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:03:01.498 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:03:03.243 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:03:03.243 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:03:03.601 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:03:03.603 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:03:05.196 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 4
+2022-12-13 19:03:05.202 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:03:34.430 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:03:34.433 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:03:34.734 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:03:36.480 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:03:36.480 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:03:36.931 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:03:36.933 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:03:38.495 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 4
+2022-12-13 19:03:38.521 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:03:38.521 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:03:52.441 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:03:52.443 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:03:52.742 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:03:54.483 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:03:54.483 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:03:54.810 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:03:54.816 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:03:56.119 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 4
+2022-12-13 19:03:56.169 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:03:56.170 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:06:21.153 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:06:21.155 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:06:21.493 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:06:22.682 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:06:22.685 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:06:23.196 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:06:23.196 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:06:23.731 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Red 5
+2022-12-13 19:06:23.742 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:06:23.743 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:06:27.965 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Shi Red 1
+2022-12-13 19:06:27.979 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:06:27.980 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:06:30.054 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ma Red 1
+2022-12-13 19:06:30.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:06:30.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:06:31.978 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Red 1
+2022-12-13 19:06:31.991 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:06:31.991 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:06:33.638 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Red 2
+2022-12-13 19:06:33.649 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:06:33.649 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:08:28.166 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:08:28.168 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:08:28.475 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:08:29.938 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:08:29.947 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:08:30.214 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:08:30.214 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:08:31.092 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Red 5
+2022-12-13 19:08:31.106 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:08:31.107 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:08:31.110 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 360 210 370 220
+2022-12-13 19:09:16.266 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:09:16.269 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:09:16.637 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:09:17.963 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:09:17.971 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:18.325 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:09:18.325 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:09:19.275 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 5
+2022-12-13 19:09:19.307 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:19.307 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:25.608 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ju Red 2
+2022-12-13 19:09:25.641 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:25.641 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:35.129 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Red 3
+2022-12-13 19:09:35.173 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:35.173 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:36.473 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ju Red 1
+2022-12-13 19:09:36.501 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:36.501 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:39.205 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ma Red 1
+2022-12-13 19:09:39.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:39.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:40.465 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Xiang Red 1
+2022-12-13 19:09:40.524 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:40.524 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:41.723 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Shi Red 1
+2022-12-13 19:09:41.765 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:41.765 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:43.040 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Jiang Red 1
+2022-12-13 19:09:43.082 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:43.082 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:43.821 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Shi Red 2
+2022-12-13 19:09:43.847 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:43.847 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:09:48.034 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Red 1
+2022-12-13 19:09:48.054 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:09:48.055 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:10:26.024 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:10:26.027 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:10:26.334 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:10:28.073 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:10:28.073 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:10:28.200 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:10:28.208 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:10:29.156 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 4
+2022-12-13 19:10:29.179 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:10:29.179 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:11:40.317 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:11:40.319 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:11:40.640 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:11:41.930 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:11:41.933 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:11:42.360 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:11:42.360 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:11:43.224 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Pao Red 1
+2022-12-13 19:11:43.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:11:43.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:11:43.250 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:11:43.252 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:11:43.253 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.832 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.832 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.832 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.832 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.833 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.846 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.847 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.847 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.847 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.847 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.847 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.847 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.848 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.861 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.861 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.862 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.863 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.873 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.873 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.874 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.875 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.886 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.887 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.888 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.888 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.911 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.911 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.911 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.911 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.912 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.923 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.924 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.936 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.951 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.951 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.951 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.951 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.951 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.952 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.963 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.963 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.963 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.963 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.963 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.964 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.976 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.976 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.976 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.977 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:27.988 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:27.988 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:27.989 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.001 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.001 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.001 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.001 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.002 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.013 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.014 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.026 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.027 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.038 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.039 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.052 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.053 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.053 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.065 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.066 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.066 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.066 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.066 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.066 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.066 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.066 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.086 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.086 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.086 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.231 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.232 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.232 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.232 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.232 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.232 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.232 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.247 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.247 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.247 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.248 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.260 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.262 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.277 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.290 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.291 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.303 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.303 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.317 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.331 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.345 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.356 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.367 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.379 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.379 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.379 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.379 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.379 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.379 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.380 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.391 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.391 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.391 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.391 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.391 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.391 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.391 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.391 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.392 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.392 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.392 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.392 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.392 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.392 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.392 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.403 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.415 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.426 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.436 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.436 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.437 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.450 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.451 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.462 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.473 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.474 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.508 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.531 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.551 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.563 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.793 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.812 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.835 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.854 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.875 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.876 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.898 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.899 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.918 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.936 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.936 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.937 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 12
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 80 90 140 150
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 150 160 140 150
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 185 195 140 150
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 220 230 140 150
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 255 265 140 150
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 290 300 140 150
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 105 115
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 175 185
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 210 220
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 245 255
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 280 290
+2022-12-13 19:12:28.954 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Current possible move painting range: 115 125 385 395
+2022-12-13 19:13:10.448 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:13:10.450 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:13:10.780 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:13:11.858 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:13:11.861 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:13:12.500 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:13:12.500 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:13:13.034 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 4
+2022-12-13 19:13:13.043 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:13:13.044 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:13:13.045 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 0
+2022-12-13 19:13:16.898 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Pao Black 1
+2022-12-13 19:13:16.909 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:13:16.910 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:13:16.910 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 11
+2022-12-13 19:13:56.349 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:13:56.351 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:13:56.659 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:13:57.968 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:13:57.971 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:13:58.404 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:13:58.404 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:14:02.064 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Pao Black 1
+2022-12-13 19:14:02.093 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:02.094 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:02.095 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 11
+2022-12-13 19:14:05.265 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ma Black 1
+2022-12-13 19:14:05.286 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:05.286 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:21.107 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ma Red 1
+2022-12-13 19:14:21.137 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:21.137 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:21.138 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:14:25.178 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Xiang Red 1
+2022-12-13 19:14:25.218 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:25.218 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:25.218 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:14:27.991 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Shi Red 1
+2022-12-13 19:14:28.028 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:28.028 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:28.028 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 1
+2022-12-13 19:14:31.236 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Xiang Red 2
+2022-12-13 19:14:31.278 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:31.278 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:31.278 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:14:33.580 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ma Red 2
+2022-12-13 19:14:33.627 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:33.628 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:33.628 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:14:35.519 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ju Red 2
+2022-12-13 19:14:35.538 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:35.538 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:35.539 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:14:37.140 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Red 5
+2022-12-13 19:14:37.168 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:37.168 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:37.168 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 1
+2022-12-13 19:14:38.998 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 5
+2022-12-13 19:14:39.016 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:39.016 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:39.016 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 0
+2022-12-13 19:14:42.699 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 3
+2022-12-13 19:14:42.727 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:42.727 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:42.727 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 0
+2022-12-13 19:14:49.151 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ma Black 1
+2022-12-13 19:14:49.170 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:49.170 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:51.285 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Xiang Black 2
+2022-12-13 19:14:51.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:51.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:14:51.305 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:14:53.015 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ma Black 2
+2022-12-13 19:14:53.042 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:14:53.042 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:05.374 [main] INFO  core.run.Game - Game Start.
+2022-12-13 19:15:05.377 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:15:05.702 [AWT-EventQueue-0] INFO  core.gui.Resource - Draw Chessboard finished.
+2022-12-13 19:15:07.419 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-13 19:15:07.419 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-13 19:15:07.557 [AWT-EventQueue-0] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-13 19:15:07.565 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:09.171 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Xiang Black 1
+2022-12-13 19:15:09.206 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:09.207 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:09.208 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:15:15.134 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Shi Black 1
+2022-12-13 19:15:15.168 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:15.168 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:15.168 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 1
+2022-12-13 19:15:16.900 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Xiang Black 2
+2022-12-13 19:15:16.935 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:16.935 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:16.935 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:15:17.772 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ma Black 2
+2022-12-13 19:15:17.801 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:17.801 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:22.256 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Ju Red 2
+2022-12-13 19:15:22.303 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:22.303 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:22.303 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 2
+2022-12-13 19:15:24.614 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Red 5
+2022-12-13 19:15:24.652 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:24.652 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:24.652 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 1
+2022-12-13 19:15:25.568 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 5
+2022-12-13 19:15:25.602 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:25.602 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:25.602 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 0
+2022-12-13 19:15:27.423 [AWT-EventQueue-0] INFO  core.gui.MainGUI - Mouse Event ClickedChess selected: Zu Black 4
+2022-12-13 19:15:27.454 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:15:27.454 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:15:27.454 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 0
+2022-12-13 19:16:11.087 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:16:11.088 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:16:11.088 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 0
+2022-12-13 19:16:11.105 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing Chess
+2022-12-13 19:16:11.105 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Drawing possible moves
+2022-12-13 19:16:11.105 [AWT-EventQueue-0] INFO  core.gui.ChessBoardPanel - Possible move list size: 0

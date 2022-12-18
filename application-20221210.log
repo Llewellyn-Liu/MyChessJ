@@ -1,0 +1,95 @@
+2022-12-10 01:04:54.141 [main] INFO  core.run.Game - Game Start.
+2022-12-10 01:04:54.144 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 01:04:54.146 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 01:04:54.146 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 01:37:29.437 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 01:37:29.438 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 01:37:40.526 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 01:37:40.526 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 01:37:40.526 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 01:40:09.911 [main] INFO  core.run.Game - Game Start.
+2022-12-10 01:40:09.914 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 01:40:09.917 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 01:40:09.917 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 01:40:21.472 [main] INFO  core.run.Game - Game Start.
+2022-12-10 01:40:22.700 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 01:40:24.894 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 01:40:28.168 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 02:03:18.673 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 02:03:18.674 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 02:03:18.674 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 02:03:25.543 [main] INFO  core.run.Game - Game Start.
+2022-12-10 02:03:25.549 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 02:03:25.553 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 02:03:25.554 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 02:03:32.213 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 02:03:32.213 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 02:03:32.213 [main] INFO  core.controller.GameController - GameController Move Conduct Finished.
+2022-12-10 02:03:32.214 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 02:05:48.511 [main] INFO  core.run.Game - Game Start.
+2022-12-10 02:05:48.513 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 02:05:48.515 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 02:05:48.515 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 02:05:57.932 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 02:05:57.932 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 02:05:57.932 [main] INFO  core.controller.ChessBoardController - Move Successfully.
+2022-12-10 02:05:57.932 [main] INFO  core.controller.GameController - GameController Move Conduct Finished.
+2022-12-10 02:05:57.932 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 02:07:05.117 [main] INFO  core.run.Game - Game Start.
+2022-12-10 02:07:05.119 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 02:07:05.125 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 02:07:05.125 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 02:07:16.979 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 02:07:16.979 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 02:07:16.979 [main] INFO  core.controller.ChessBoardController - Move Successfully.
+2022-12-10 02:07:16.979 [main] INFO  core.controller.GameController - GameController Move Conduct Finished.
+2022-12-10 02:07:16.980 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 02:08:18.545 [main] INFO  core.run.Game - Game Start.
+2022-12-10 02:08:18.551 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 02:08:18.582 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 02:08:18.582 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 09:43:57.688 [main] INFO  core.run.Game - Game Start.
+2022-12-10 09:43:58.935 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 09:44:03.561 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 09:44:05.999 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 09:44:17.720 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 09:44:28.071 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 09:52:04.442 [main] INFO  core.controller.ChessBoardController - Move Successfully.
+2022-12-10 09:52:04.443 [main] INFO  core.controller.GameController - GameController Move Conduct Finished.
+2022-12-10 09:52:04.444 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 09:52:11.300 [main] INFO  core.run.Game - Game Start.
+2022-12-10 09:52:11.308 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 09:52:11.341 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 09:52:11.341 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 09:52:18.429 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 09:52:18.431 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 09:52:18.431 [main] INFO  core.controller.ChessBoardController - Move Successfully.
+2022-12-10 09:52:18.432 [main] INFO  core.controller.GameController - GameController Move Conduct Finished.
+2022-12-10 09:52:18.435 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 10:22:16.701 [main] INFO  core.run.Game - Game Start.
+2022-12-10 10:22:16.704 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 10:22:16.711 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 10:22:16.711 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 10:38:34.123 [main] INFO  core.run.Game - Game Start.
+2022-12-10 10:38:34.126 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 10:38:34.132 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 10:38:34.132 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 10:39:19.441 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 10:39:19.441 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 10:39:19.443 [main] INFO  core.controller.ChessBoardController - Move Successfully.
+2022-12-10 10:39:19.443 [main] INFO  core.controller.GameController - GameController Move Conduct Finished.
+2022-12-10 10:39:19.443 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 10:41:40.733 [main] INFO  core.run.Game - Game Start.
+2022-12-10 10:41:40.737 [main] INFO  core.controller.GameController - GameController Life Cycle: Initializing
+2022-12-10 10:41:40.745 [main] INFO  core.controller.GameController - GameController Life Cycle: Running
+2022-12-10 10:41:40.745 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 10:41:57.822 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 10:41:57.822 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 10:41:57.823 [main] INFO  core.controller.ChessBoardController - Move Successfully.
+2022-12-10 10:41:57.823 [main] INFO  core.controller.GameController - GameController Move Conduct Finished.
+2022-12-10 10:41:57.823 [main] INFO  core.controller.GameController - GameController Listening user's choice
+2022-12-10 10:42:16.419 [main] INFO  core.controller.GameController - GameController Listening finished.
+2022-12-10 10:42:16.419 [main] INFO  core.controller.GameController - GameController Conduct Move
+2022-12-10 10:42:16.420 [main] INFO  core.controller.ChessBoardController - Move Successfully.
+2022-12-10 10:42:16.420 [main] INFO  core.controller.GameController - GameController Move Conduct Finished.
+2022-12-10 10:42:16.420 [main] INFO  core.controller.GameController - GameController Listening user's choice
